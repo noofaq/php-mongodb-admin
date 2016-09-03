@@ -18,6 +18,8 @@
  * @Theme Ted Veatch
  */
 
+include __DIR__.'/vendor/autoload.php';
+
 header('Pragma: no-cache');
 
 $server = array(
